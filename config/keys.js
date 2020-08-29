@@ -1,4 +1,6 @@
 module.exports = {
-    mongoURI: "mongodb+srv://ravindra281298:ravindra281298@devconnector-pxenm.mongodb.net/test?retryWrites=true&w=majority",
-    secretOrKey: "secret"
+    mongoURI: "mongodb+srv://<username>:<password>@devconnector-pxenm.mongodb.net/test?retryWrites=true&w=majority",
+    secretOrKey: <secret>
 };
+    
+//username, password and secret has been hidden for security reasons.
