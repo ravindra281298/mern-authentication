@@ -7,5 +7,5 @@ Modules:
 2) Login
 3) JWT Token creation
 
-Test it now:https://auth-portal.herokuapp.com/
+Test it now:
 <a href="https://auth-portal.herokuapp.com/">Live site</a>
