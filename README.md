@@ -1,3 +1,8 @@
 # mern-authentication
 
-Created a basic login and signup with JWT token creation.
+Created a MERN-authentication.
+
+Modules:
+1) Signup
+2) Login
+3) JWT Token creation
